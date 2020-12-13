@@ -1,0 +1,51 @@
+:root {
+    background-color: black;
+    
+}
+#main {
+    color:whitesmoke;
+    margin: auto 6em;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 4em;
+}
+#title {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(241, 115, 115)  ;
+    font-family: 'Langar';
+}
+#img-caption {
+    text-align: center;
+    font-size: 10px;
+}
+#image {
+    width: 800px;
+    height: 424px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em 0;
+}
+#personalXp {
+    font-size: 18px;
+}
+#tribute-info {
+    font-size: 18px;
+}
+#lista {
+    border-style: solid;
+    border-color: tomato;
+    border-radius: 5px;
+    border-width: 3px;
+    padding: 0 3em 1em 3em;
+    margin: 1em 0;
+}
+ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.titulo {
+    text-align: center;
+    font-size: 20px;
+
+}
