@@ -25,6 +25,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 1em 0;
+    max-width: 424px;
 }
 #personalXp {
     font-size: 18px;
