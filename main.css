@@ -19,13 +19,14 @@
     font-size: 10px;
 }
 #image {
-    width: 800px;
-    height: 424px;
+    width: 100%;
+    height: 52%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 1em 0;
-    max-width: 60%;
+    max-width: 800px;
+    max-height: 424px;
 }
 #personalXp {
     font-size: 18px;
